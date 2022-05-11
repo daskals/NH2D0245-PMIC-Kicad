@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations,,,,,,,
+C:\SVN\Autonomous_Thingy91\01. Hardware\02. Rev 2\01. Altium\Project Outputs for Thingy91_Nowi_Plugin\Pick Place for Thingy91_Nowi_Plugin.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       15/06/21,,,,,,,
+Time:       18:38,,,,,,,
+Revision:   3,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+J1,Component_1,TopLayer,M208900405,14.478,38.481,90,
+J3,NPPC021KFXC-RC,TopLayer,PCBComponent_1,35.4,3.4,90,"2 Position Header, Top or Bottom Entry Connector 0.100 (2.54mm) Surface Mount Gold"""
+J2,NPPC021KFXC-RC,TopLayer,PCBComponent_1,15.4,47,270,"2 Position Header, Top or Bottom Entry Connector 0.100 (2.54mm) Surface Mount Gold"""
+U2,BD46421G-TR,BottomLayer,SOT95P280X110-5N,31.115,28.209,90,
+C2,2.2 µF,TopLayer,FP-CL127-IPC_C,24.007,28.632,90,2.2µF ±20% 16V Ceramic Capacitor X5R 0402 (1005 Metric)
+C1,5.6 nF,TopLayer,FP-CL842-IPC_C,27.6836,25.404,0,5.6nF ±10% 25V Ceramic Capacitor X7R 0402 (1005 Metric)
+C3,2.2 µF,TopLayer,FP-CL127-IPC_C,25.007,22.4814,270,2.2µF ±20% 16V Ceramic Capacitor X5R 0402 (1005 Metric)
+U1,NH2D0245,TopLayer,PCBComponent_1,24.257,25.654,270,NH2D0245 Energy Harvesting PMIC
+SW1,JS102011JCQN,TopLayer,JS102011JCQN,24.257,14.224,180,SWITCH SLIDE SPDT 300MA 6V
+J4,Pin List 1x2,BottomLayer,LIST_1x2-NC,12.6746,30.126,90,"Pin List 1x2, 2.54mm (100mil)"
